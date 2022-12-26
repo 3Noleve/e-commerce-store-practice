@@ -1,6 +1,5 @@
 # Online Shop
 
- ### You can open this app on that [link](https://google-books-b4eixmr20-jointime1.vercel.app/)
 
 ## What we can do whith this app?
 
